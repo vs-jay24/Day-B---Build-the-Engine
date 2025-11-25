@@ -39,3 +39,10 @@ Repeat this structure across:
 - **Sat – Day B**
 
 ---
+
+## 🎯 End Goal of This Repo
+- Build working ETL pipelines  
+- Use AWS (S3, Lambda, CloudWatch)  
+- Understand ADF pipelines  
+- Design warehouse schemas  
+- Automate and monitor data movement  
